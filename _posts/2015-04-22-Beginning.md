@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Beginning
 category:  living
