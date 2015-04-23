@@ -1,3 +1,10 @@
+
+---
+layout: post
+title: Beginning
+category:  living
+---
+
 ##哈哈   
 ####哈哈
 
