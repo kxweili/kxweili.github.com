@@ -35,7 +35,8 @@ category:  coding
             else:
                 conn.send('welcome client'.encode('UTF-8'))
         conn.close()
-        print('end of the service）
+        print('end of the service）   
+
 注意，开始在发送和接收部分出现问题，好像是缓冲区不接受字符串，所以对发送和接受部分的内容进行了编码和解码
 2.TCP客户端  
 
