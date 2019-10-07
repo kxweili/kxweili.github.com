@@ -8,7 +8,7 @@ category:  Framework
 +  [Robot framework introduction](https://robotframework.org)     
 +  [Public API](https://robot-framework.readthedocs.io/en/latest/)    
 
-Here's simple demo
+After the robot framework is intalled. Here's simple demo to give it a try.
 ```
 *** Settings ***
 Documentation  present some info of this test suite
@@ -24,6 +24,6 @@ Guest must sign in to check
     Close Browser
 ```
 You can install the Library using    
-```
-pip3 install robotframework-seleniumLibrary
-```
+    pip3 install robotframework-seleniumLibrary
+Another thing is that to use selienium, you also need to download a chromedriver and put it to a directory under PATH. So that it can autiomatically find the driver and start the test.      
+The script uses two spaces as separator. 
