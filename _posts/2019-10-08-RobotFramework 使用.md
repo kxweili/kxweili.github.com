@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RobotFramework quick use
-category:  Framework
+category:  framework
 ---
 
 +  [Robot framework user tutorial](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)   
