@@ -33,7 +33,7 @@ var clickHandler = function(k) {
     window['tag'+k].delay(50).fadeIn(350);
   }
 };
-for (var i = 1; i <= 7; i++) {
+for (var i = 1; i <= 10; i++) {
   $('#js-label' + i).on('click', clickHandler(i));
 }
 
